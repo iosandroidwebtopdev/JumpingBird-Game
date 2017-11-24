@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Volumes/DATA/Work/portugal_gil/firebase(admobSdk)/MinionBird/app/build/intermediates/res/merged/debug/raw/collect.ogg",
+        "source": "/Volumes/DATA/Work/portugal_gil/firebase(admobSdk)/MinionBird/app/src/main/res/raw/collect.ogg"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/portugal_gil/MinionBird/app/build/intermediates/res/merged/debug/raw/speed_down.ogg",
+        "source": "/Volumes/DATA/Work/portugal_gil/MinionBird/app/src/main/res/raw/speed_down.ogg"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/portugal_gil/MinionBird/app/build/intermediates/res/merged/debug/raw/long_jump.ogg",
+        "source": "/Volumes/DATA/Work/portugal_gil/MinionBird/app/src/main/res/raw/long_jump.ogg"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/portugal_gil/MinionBird/app/build/intermediates/res/merged/debug/raw/direction_sign.ogg",
+        "source": "/Volumes/DATA/Work/portugal_gil/MinionBird/app/src/main/res/raw/direction_sign.ogg"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/portugal_gil/MinionBird/app/build/intermediates/res/merged/debug/raw/speed_up.ogg",
+        "source": "/Volumes/DATA/Work/portugal_gil/MinionBird/app/src/main/res/raw/speed_up.ogg"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/portugal_gil/MinionBird/app/build/intermediates/res/merged/debug/raw/game.ogg",
+        "source": "/Volumes/DATA/Work/portugal_gil/MinionBird/app/src/main/res/raw/game.ogg"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/portugal_gil/MinionBird/app/build/intermediates/res/merged/debug/raw/collide.ogg",
+        "source": "/Volumes/DATA/Work/portugal_gil/MinionBird/app/src/main/res/raw/collide.ogg"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/portugal_gil/firebase(admobSdk)/MinionBird/app/build/intermediates/res/merged/debug/raw/collide.ogg",
+        "source": "/Volumes/DATA/Work/portugal_gil/firebase(admobSdk)/MinionBird/app/src/main/res/raw/collide.ogg"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/portugal_gil/MinionBird/app/build/intermediates/res/merged/debug/raw/jump.ogg",
+        "source": "/Volumes/DATA/Work/portugal_gil/MinionBird/app/src/main/res/raw/jump.ogg"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/portugal_gil/firebase(admobSdk)/MinionBird/app/build/intermediates/res/merged/debug/raw/menu.ogg",
+        "source": "/Volumes/DATA/Work/portugal_gil/firebase(admobSdk)/MinionBird/app/src/main/res/raw/menu.ogg"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/portugal_gil/MinionBird/app/build/intermediates/res/merged/debug/raw/menu.ogg",
+        "source": "/Volumes/DATA/Work/portugal_gil/MinionBird/app/src/main/res/raw/menu.ogg"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/portugal_gil/firebase(admobSdk)/MinionBird/app/build/intermediates/res/merged/debug/raw/speed_up.ogg",
+        "source": "/Volumes/DATA/Work/portugal_gil/firebase(admobSdk)/MinionBird/app/src/main/res/raw/speed_up.ogg"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/portugal_gil/firebase(admobSdk)/MinionBird/app/build/intermediates/res/merged/debug/raw/long_jump.ogg",
+        "source": "/Volumes/DATA/Work/portugal_gil/firebase(admobSdk)/MinionBird/app/src/main/res/raw/long_jump.ogg"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/portugal_gil/firebase(admobSdk)/MinionBird/app/build/intermediates/res/merged/debug/raw/menu_click.ogg",
+        "source": "/Volumes/DATA/Work/portugal_gil/firebase(admobSdk)/MinionBird/app/src/main/res/raw/menu_click.ogg"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/portugal_gil/firebase(admobSdk)/MinionBird/app/build/intermediates/res/merged/debug/raw/jump.ogg",
+        "source": "/Volumes/DATA/Work/portugal_gil/firebase(admobSdk)/MinionBird/app/src/main/res/raw/jump.ogg"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/portugal_gil/firebase(admobSdk)/MinionBird/app/build/intermediates/res/merged/debug/raw/speed_down.ogg",
+        "source": "/Volumes/DATA/Work/portugal_gil/firebase(admobSdk)/MinionBird/app/src/main/res/raw/speed_down.ogg"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/portugal_gil/firebase(admobSdk)/MinionBird/app/build/intermediates/res/merged/debug/raw/direction_sign.ogg",
+        "source": "/Volumes/DATA/Work/portugal_gil/firebase(admobSdk)/MinionBird/app/src/main/res/raw/direction_sign.ogg"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/portugal_gil/MinionBird/app/build/intermediates/res/merged/debug/raw/collect.ogg",
+        "source": "/Volumes/DATA/Work/portugal_gil/MinionBird/app/src/main/res/raw/collect.ogg"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/portugal_gil/firebase(admobSdk)/MinionBird/app/build/intermediates/res/merged/debug/raw/game.ogg",
+        "source": "/Volumes/DATA/Work/portugal_gil/firebase(admobSdk)/MinionBird/app/src/main/res/raw/game.ogg"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/portugal_gil/MinionBird/app/build/intermediates/res/merged/debug/raw/menu_click.ogg",
+        "source": "/Volumes/DATA/Work/portugal_gil/MinionBird/app/src/main/res/raw/menu_click.ogg"
+    }
+]

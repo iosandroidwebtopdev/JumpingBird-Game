@@ -1,0 +1,4 @@
+#Wed Sep 27 00:51:29 VLAT 2017
+base.0=/Volumes/DATA/Work/portugal_gil/MinionBird/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
+renamed.0=classes.dex
+file.0=/Volumes/DATA/Work/portugal_gil/MinionBird/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex

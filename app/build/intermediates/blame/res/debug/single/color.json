@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Volumes/DATA/Work/portugal_gil/MinionBird/app/build/intermediates/res/merged/debug/color/wallet_secondary_text_holo_dark.xml",
+        "source": "/Users/kdev/.android/build-cache/0b949216931c5f6a2e7a33e7a130015676222aab/output/res/color/wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/portugal_gil/firebase(admobSdk)/MinionBird/app/build/intermediates/res/merged/debug/color/wallet_secondary_text_holo_dark.xml",
+        "source": "/Users/kdev/.android/build-cache/0b949216931c5f6a2e7a33e7a130015676222aab/output/res/color/wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/portugal_gil/firebase(admobSdk)/MinionBird/app/build/intermediates/res/merged/debug/color/wallet_primary_text_holo_light.xml",
+        "source": "/Users/kdev/.android/build-cache/0b949216931c5f6a2e7a33e7a130015676222aab/output/res/color/wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/portugal_gil/MinionBird/app/build/intermediates/res/merged/debug/color/common_signin_btn_text_dark.xml",
+        "source": "/Users/kdev/.android/build-cache/0b949216931c5f6a2e7a33e7a130015676222aab/output/res/color/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/portugal_gil/firebase(admobSdk)/MinionBird/app/build/intermediates/res/merged/debug/color/common_signin_btn_text_dark.xml",
+        "source": "/Users/kdev/.android/build-cache/0b949216931c5f6a2e7a33e7a130015676222aab/output/res/color/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/portugal_gil/MinionBird/app/build/intermediates/res/merged/debug/color/common_signin_btn_text_light.xml",
+        "source": "/Users/kdev/.android/build-cache/0b949216931c5f6a2e7a33e7a130015676222aab/output/res/color/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/portugal_gil/MinionBird/app/build/intermediates/res/merged/debug/color/wallet_primary_text_holo_light.xml",
+        "source": "/Users/kdev/.android/build-cache/0b949216931c5f6a2e7a33e7a130015676222aab/output/res/color/wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/portugal_gil/firebase(admobSdk)/MinionBird/app/build/intermediates/res/merged/debug/color/common_signin_btn_text_light.xml",
+        "source": "/Users/kdev/.android/build-cache/0b949216931c5f6a2e7a33e7a130015676222aab/output/res/color/common_signin_btn_text_light.xml"
+    }
+]

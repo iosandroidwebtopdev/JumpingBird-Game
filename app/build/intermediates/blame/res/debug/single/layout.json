@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/DATA/Work/portugal_gil/MinionBird/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Volumes/DATA/Work/portugal_gil/MinionBird/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/Work/portugal_gil/firebase(admobSdk)/MinionBird/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Volumes/DATA/Work/portugal_gil/firebase(admobSdk)/MinionBird/app/src/main/res/layout/activity_main.xml"
+    }
+]
